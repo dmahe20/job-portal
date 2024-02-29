@@ -1,0 +1,372 @@
+{
+    "req1@gmail.com": {
+      "type": "recruiter",
+      "email": "req1@gmail.com",
+      "password": "1234567",
+      "name": "Req1",
+      "bio": "Recruiting"
+    },
+    "req2@gmail.com": {
+      "type": "recruiter",
+      "email": "req2@gmail.com",
+      "password": "1234567",
+      "name": "Req2",
+      "bio": "Recruiting"
+    },
+    "req3@gmail.com": {
+      "type": "recruiter",
+      "email": "req3@gmail.com",
+      "password": "1234567",
+      "name": "Req3",
+      "bio": "Recruting"
+    },
+    "app1@gmail.com": {
+      "type": "applicant",
+      "email": "app1@gmail.com",
+      "password": "1234567",
+      "name": "App1",
+      "education": [
+        {
+          "institutionName": "itm",
+          "startYear": "2010",
+          "endYear": "2014"
+        }
+      ],
+      "skills": [
+        "React",
+        "Redux",
+        "HTML",
+        "CSS",
+        "AWS"
+      ]
+    },
+    "app2@gmail.com": {
+      "type": "applicant",
+      "email": "app2@gmail.com",
+      "password": "1234567",
+      "name": "App2",
+      "education": [
+        {
+          "institutionName": "BTS",
+          "startYear": "2012",
+          "endYear": "2016"
+        }
+      ],
+      "skills": [
+        "React",
+        "Redux",
+        "Java"
+      ]
+    },
+    "app3@gmail.com": {
+      "type": "applicant",
+      "email": "app3@gmail.com",
+      "password": "1234567",
+      "name": "App3",
+      "education": [
+        {
+          "institutionName": "VIT",
+          "startYear": "2015",
+          "endYear": "2019"
+        }
+      ],
+      "skills": [
+        "Azure",
+        "Java",
+        "Springboot"
+      ]
+    },
+    "req4@gmail.com": {
+      "type": "recruiter",
+      "email": "req4@gmail.com",
+      "password": "1234567",
+      "name": "req4",
+      "bio": "Looking for Senior software engineers"
+    },
+    "app4@gmail.com": {
+      "type": "applicant",
+      "email": "app4@gmail.com",
+      "password": "1234567",
+      "name": "App4",
+      "education": [
+        {
+          "institutionName": "VIT",
+          "startYear": "2015",
+          "endYear": "2019"
+        }
+      ],
+      "skills": [
+        "Azure",
+        "Java",
+        "Springboot"
+      ]
+    },
+    "dmahe20@gmail.com": {
+      "type": "applicant",
+      "email": "dmahe20@gmail.com",
+      "password": "1234567",
+      "name": "Darshana",
+      "gitProfileId": "dmahe20",
+      "education": [
+        {
+          "institutionName": "ITM",
+          "startYear": "2012",
+          "endYear": "2016"
+        }
+      ],
+      "skills": [
+        "ReactJS",
+        "JAVA",
+        "Springboot",
+        "DS Algo"
+      ]
+    },
+    "garimaapp@gmail.com": {
+      "type": "applicant",
+      "email": "garimaapp@gmail.com",
+      "password": "1234567",
+      "name": "GarimaApp",
+      "gitProfileId": "rgpush",
+      "education": [
+        {
+          "institutionName": "iit",
+          "startYear": "2010",
+          "endYear": "2016"
+        }
+      ],
+      "skills": [
+        "React",
+        "AWS"
+      ]
+    },
+    "req11@gmail.com": {
+      "type": "recruiter",
+      "email": "req11@gmail.com",
+      "password": "1234567",
+      "name": "Req11",
+      "bio": "Recruiting"
+    },
+    "req12@gmail.com": {
+      "type": "recruiter",
+      "email": "req12@gmail.com",
+      "password": "1234567",
+      "name": "Req12",
+      "bio": "Recruiting"
+    },
+    "req13@gmail.com": {
+      "type": "recruiter",
+      "email": "req13@gmail.com",
+      "password": "1234567",
+      "name": "Req13",
+      "bio": "Recruiting"
+    },
+    "req14@gmail.com": {
+      "type": "recruiter",
+      "email": "req14@gmail.com",
+      "password": "1234567",
+      "name": "Req14",
+      "bio": "Recruiting"
+    },
+    "req15@gmail.com": {
+      "type": "recruiter",
+      "email": "req15@gmail.com",
+      "password": "1234567",
+      "name": "Req15",
+      "bio": "Recruiting"
+    },
+    "req16@gmail.com": {
+      "type": "recruiter",
+      "email": "req16@gmail.com",
+      "password": "1234567",
+      "name": "Req16",
+      "bio": "Recruiting"
+    },
+    "req17@gmail.com": {
+      "type": "recruiter",
+      "email": "req17@gmail.com",
+      "password": "1234567",
+      "name": "Req17",
+      "bio": "Recruiting"
+    },
+    "req18@gmail.com": {
+      "type": "recruiter",
+      "email": "req18@gmail.com",
+      "password": "1234567",
+      "name": "Req18",
+      "bio": "Recruiting"
+    },
+    "req19@gmail.com": {
+      "type": "recruiter",
+      "email": "req19@gmail.com",
+      "password": "1234567",
+      "name": "Req19",
+      "bio": "Recruiting"
+    },
+    "req20@gmail.com": {
+      "type": "recruiter",
+      "email": "req20@gmail.com",
+      "password": "1234567",
+      "name": "Req20",
+      "bio": "Recruiting"
+    },
+    "app5@gmail.com": {
+      "type": "applicant",
+      "email": "app5@gmail.com",
+      "password": "1234567",
+      "name": "App5",
+      "education": [
+        {
+          "institutionName": "itm",
+          "startYear": "2010",
+          "endYear": "2014"
+        }
+      ],
+      "skills": [
+        "React",
+        "Redux",
+        "HTML",
+        "CSS",
+        "AWS"
+      ]
+    },
+    "app6@gmail.com": {
+      "type": "applicant",
+      "email": "app6@gmail.com",
+      "password": "1234567",
+      "name": "App6",
+      "education": [
+        {
+          "institutionName": "itm",
+          "startYear": "2010",
+          "endYear": "2014"
+        }
+      ],
+      "skills": [
+        "React",
+        "Redux",
+        "HTML",
+        "CSS",
+        "AWS"
+      ]
+    },
+    "app7@gmail.com": {
+      "type": "applicant",
+      "email": "app7@gmail.com",
+      "password": "1234567",
+      "name": "App7",
+      "education": [
+        {
+          "institutionName": "itm",
+          "startYear": "2010",
+          "endYear": "2014"
+        }
+      ],
+      "skills": [
+        "React",
+        "Redux",
+        "HTML",
+        "CSS",
+        "AWS"
+      ]
+    },
+    "app8@gmail.com": {
+      "type": "applicant",
+      "email": "app8@gmail.com",
+      "password": "1234567",
+      "name": "App8",
+      "education": [
+        {
+          "institutionName": "itm",
+          "startYear": "2010",
+          "endYear": "2014"
+        }
+      ],
+      "skills": [
+        "React",
+        "Redux",
+        "HTML",
+        "CSS",
+        "AWS"
+      ]
+    },
+    "app9@gmail.com": {
+      "type": "applicant",
+      "email": "app9@gmail.com",
+      "password": "1234567",
+      "name": "App9",
+      "education": [
+        {
+          "institutionName": "itm",
+          "startYear": "2010",
+          "endYear": "2014"
+        }
+      ],
+      "skills": [
+        "React",
+        "Redux",
+        "HTML",
+        "CSS",
+        "AWS"
+      ]
+    },
+    "app10@gmail.com": {
+      "type": "applicant",
+      "email": "app10@gmail.com",
+      "password": "1234567",
+      "name": "App10",
+      "education": [
+        {
+          "institutionName": "itm",
+          "startYear": "2010",
+          "endYear": "2014"
+        }
+      ],
+      "skills": [
+        "React",
+        "Redux",
+        "HTML",
+        "CSS",
+        "AWS"
+      ]
+    },
+    "app11@gmail.com": {
+      "type": "applicant",
+      "email": "app11@gmail.com",
+      "password": "1234567",
+      "name": "App11",
+      "education": [
+        {
+          "institutionName": "itm",
+          "startYear": "2010",
+          "endYear": "2014"
+        }
+      ],
+      "skills": [
+        "React",
+        "Redux",
+        "HTML",
+        "CSS",
+        "AWS"
+      ]
+    },
+    "app12@gmail.com": {
+      "type": "applicant",
+      "email": "app12@gmail.com",
+      "password": "1234567",
+      "name": "App12",
+      "education": [
+        {
+          "institutionName": "itm",
+          "startYear": "2010",
+          "endYear": "2014"
+        }
+      ],
+      "skills": [
+        "React",
+        "Redux",
+        "HTML",
+        "CSS",
+        "AWS"
+      ]
+    }
+  }
